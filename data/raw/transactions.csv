@@ -1,0 +1,16 @@
+transaction_id,account_id,transaction_date,category,amount,transaction_type
+T001,A001,2026-07-01,Groceries,82.45,Debit
+T002,A001,2026-07-02,Gas,45.20,Debit
+T003,A002,2026-07-03,Payroll,1850.00,Credit
+T004,A003,2026-07-04,Dining,36.75,Debit
+T005,A004,2026-07-05,Utilities,125.60,Debit
+T006,A005,2026-07-06,Groceries,94.30,Debit
+T007,A006,2026-07-07,Shopping,210.15,Debit
+T008,A007,2026-07-08,Payroll,2200.00,Credit
+T009,A008,2026-07-09,gas,52.80,Debit
+T010,A009,2026-07-10,Entertainment,75.00,Debit
+T011,A010,2026-07-11,,48.25,Debit
+T012,A011,2026-07-12,Groceries,103.40,Debit
+T013,A001,2026-07-13,Transfer,300.00,Credit
+T014,A003,2026-07-14,Dining,27.95,Debit
+T014,A003,2026-07-14,Dining,27.95,Debit
