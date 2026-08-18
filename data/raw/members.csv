@@ -1,1 +1,11 @@
-
+member_id,first_name,last_name,state,join_date
+M001,James,Smith,VA,2024-01-15
+M002,Sarah,Johnson,MD,2024-02-20
+M003,Michael,Brown,VA,2024-03-10
+M004,Emily,Davis,DC,2024-04-05
+M005,David,Wilson,VA,2024-05-12
+M006,Ashley,Moore,MD,2024-06-18
+M007,Chris,Taylor,VA,2024-07-22
+M008,Jessica,Anderson,DC,2024-08-14
+M009,Daniel,Thomas,VA,2024-09-09
+M010,Lauren,Jackson,MD,2024-10-03
